@@ -1,0 +1,80 @@
+body{
+    background-image:  url(ImagesP/header-bg.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+
+*{
+    margin:0px;
+    padding:0px;
+}
+
+.name-color{
+    color: rgb(197, 0, 0);
+}
+.p-class{
+    color:white;
+    padding:10px
+}
+
+
+.Btn{
+    text-decoration: none;
+    border:0px;;
+    background-image: linear-gradient(to right, rgba(250, 105, 255, 0.685), #00c3ffa4);
+    padding:10px 20px;
+    border-radius: 5px;
+    font-weight:700;
+    color: white;
+    
+
+}
+.Btn:hover{
+    background-color: aqua;
+    color: white
+}
+
+
+body{
+    background-color:rgba(179, 164, 55, 0.048);
+    font-family: 'Caveat', cursive;
+    font-family: 'Satisfy', cursive;
+}
+.second-banner{
+    margin-top: 100px;
+}
+.top-banner{
+    margin-top: 20px;
+}
+.therd-banner img{
+    width: 200px;
+    display: inline-block
+
+}
+.thired b{
+    font-weight: 800;
+}
+footer{
+    color:red
+}
+.top-banner{
+    background-image: url(ImagesP/Others/271845670_275265454536980_7724347607586786981_n.jpg) ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    padding-bottom: 40px !important;
+    margin:0px;
+    padding-top: 0px;
+
+    
+    
+   
+}
+.top-b-h1{
+    padding-top: 30px
+    
+
+    
+}
